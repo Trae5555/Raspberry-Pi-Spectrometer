@@ -3,7 +3,7 @@
 A DIY, low-cost spectrometer built around Raspberry Pi, a camera module, a slit, and a transmission diffraction grating.
 This project captures a slit image + its 1st order spectrum, then extracts an intensity-vs-pixel spectrum for comparison and future wavelength calibration.
 
-![Spectrometer MK1 - First-order spectrum](Images/Results/CFL bulb/lightShift_R.jpg)
+[Spectrometer MK1 - First-order spectrum](Images/Results/CFL bulb/lightShift_R.jpg)
 
 ---
 
